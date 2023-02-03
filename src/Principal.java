@@ -22,7 +22,7 @@ public class Principal {
 					JOptionPane.showMessageDialog(null, "Programa finalizado");
 					System.exit(0);
 				}
-				break;
+
 			}
 		}
 	}
